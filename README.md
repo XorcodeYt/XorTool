@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/XorcodeYt/XorTool/main/assets/banner.png" alt="XorTool Banner" width="500"/>
-</p>
-
 <h1 align="center">XorTool 🛠️</h1>
 <p align="center">
   <b>Modular Multi-Tool for Windows</b><br>
