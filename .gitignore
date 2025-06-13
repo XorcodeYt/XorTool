@@ -1,0 +1,21 @@
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings (optional)
+.vscode/
+
+# Ignore zip processing and wordlist folders
+input-zip/
+output-zip/
+dictionarys/
+
+# MacOS files (optional, safe to ignore)
+.DS_Store
+
+# Windows thumbnail files (optional)
+Thumbs.db
+
+# Environment files (optional)
+.env
