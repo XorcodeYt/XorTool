@@ -1,33 +1,45 @@
 XorTool - Multi Tool by Xorcode
+
 Overview
+
 XorTool is a modular multi-tool for Windows, written in Python, offering several network utilities and handy tools through a stylish terminal menu.
 
 Features
+
 [1] TCP Port Scanner
+
 Scan open TCP ports on a target.
 
 [2] IP Scanner
+
 Scan an IP range to find active hosts.
 
 [3] DNS Resolver
+
 Resolve domain names to IP addresses.
 
 [4] Clear Credentials
+
 Erase stored credentials.
 
 [5] Password Generator
+
 Generate strong, random passwords.
 
 [6] YouTube Downloader
+
 Download YouTube videos using yt-dlp (requires ffmpeg).
 
 [7] ZIP Cracker
+
 Brute-force ZIP files protected by passwords (using zip-cracker).
 
 [8] Credits
+
 Display credits and used dependencies.
 
 [9] Quit
+
 Exit the program.
 
 Installation (Windows Only)
