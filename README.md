@@ -36,6 +36,8 @@
 
 **XorTool** is a modular multi-tool for Windows, written in Python. It provides several network utilities and handy tools through a stylish terminal menu.
 
+![Alt text](https://ibb.co/FbBqzGp5)
+
 ---
 
 ## ✨ Features
@@ -75,6 +77,12 @@
 - Ensure all custom modules are inside the `modules/` folder at the project root.
 - Download and install FFmpeg (add the `bin` folder to your Windows Environment Variables).
 - Restart your terminal or PC, and check FFmpeg installation by running `ffmpeg -version`.
+
+## ▶️ Usage
+
+- Run the main script using Command Prompt or PowerShell:  
+  Start the program and follow the on-screen menu.
+- Select a tool by entering its corresponding number.
 
 ## 🙏 Credits
 
