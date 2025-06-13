@@ -20,7 +20,7 @@ Resolve domain names to IP addresses.
 
 [4] Clear Credentials
 
-Erase stored credentials.
+Erase stored xbox/xblticktes credentials.
 
 [5] Password Generator
 
