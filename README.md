@@ -36,7 +36,7 @@
 
 **XorTool** is a modular multi-tool for Windows, written in Python. It provides several network utilities and handy tools through a stylish terminal menu.
 
-![Alt text](https://ibb.co/FbBqzGp5)
+![Alt text](https://i.ibb.co/7JGNK7hn/tool.png)
 
 ---
 
